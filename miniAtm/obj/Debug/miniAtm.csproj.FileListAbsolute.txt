@@ -1,0 +1,8 @@
+C:\Projeler\C#\Başlangıç\Projeler\miniAtm\bin\Debug\miniAtm.exe.config
+C:\Projeler\C#\Başlangıç\Projeler\miniAtm\bin\Debug\miniAtm.exe
+C:\Projeler\C#\Başlangıç\Projeler\miniAtm\bin\Debug\miniAtm.pdb
+C:\Projeler\C#\Başlangıç\Projeler\miniAtm\obj\Debug\miniAtm.csproj.AssemblyReference.cache
+C:\Projeler\C#\Başlangıç\Projeler\miniAtm\obj\Debug\miniAtm.csproj.SuggestedBindingRedirects.cache
+C:\Projeler\C#\Başlangıç\Projeler\miniAtm\obj\Debug\miniAtm.csproj.CoreCompileInputs.cache
+C:\Projeler\C#\Başlangıç\Projeler\miniAtm\obj\Debug\miniAtm.exe
+C:\Projeler\C#\Başlangıç\Projeler\miniAtm\obj\Debug\miniAtm.pdb
